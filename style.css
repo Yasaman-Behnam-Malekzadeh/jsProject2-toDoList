@@ -1,0 +1,25 @@
+body {
+    background-image: url(./image/bg.jpg);
+    width: 100%;
+}
+.bg{
+    background-color: rgb(241, 238, 241);
+    width: 60rem;
+    height:33rem;
+    margin: 2.5rem auto;
+    border-radius: 20px;
+    box-shadow: black 30px;
+    opacity: 0.94;
+    overflow-y: scroll;
+}
+#textInput {
+    width: 30rem;
+    
+}
+.del:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+.listItem:hover{
+    cursor: pointer;
+}
